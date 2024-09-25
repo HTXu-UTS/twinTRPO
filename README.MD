@@ -3,6 +3,7 @@ twinTRPO-Continuous: A self-contained implementation of the algorithm proposed i
 
 [1] Haotian Xu, Junyu Xuan, Guangquan Zhang, Jie Lu. Twin Trust Region Policy Optimization.
 submitted to IEEE Transactions on Transactions on Systems, Man and Cybernetics: Systems, 2024.
+
 [2] Haotian Xu, Junyu Xuan, Guangquan Zhang, Jie Lu. Reciprocal trust region policy optimization.
 In: World Scientific Proceedings Series on Computer Engineering and Information Science --
 Intelligent Management of Data and Information in Decision Making, pp. 187-194,2024.
